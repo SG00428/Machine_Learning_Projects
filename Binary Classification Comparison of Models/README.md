@@ -1,5 +1,3 @@
-# Assignment-4-es-335-2024-gradientguys
-```markdown
 ### Question 1: Binary Classification Task
 
 In this question, you have to compare the performance on a binary classification task of the following models:
